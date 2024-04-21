@@ -1,1 +1,1 @@
-it is hugo code 
+[blog url](https://ttoftnt.github.io/hugo-blog/en/)
